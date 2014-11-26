@@ -1,0 +1,3 @@
+RedirectMatch 301 /product$ /products
+RedirectMatch 301 /product/$ /products
+

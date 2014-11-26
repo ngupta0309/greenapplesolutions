@@ -1,0 +1,21 @@
+== Changelog ==
+
+= 1.2.1: June 7, 2013 =
+
+* Fix: Custom pledge amounts now more compatible with different currency separators.  
+
+= 1.2: June 3, 2013 =
+
+* New: Embeddable campaign widget.
+* Fix: Responsive fixes.
+
+= 1.1: May 31, 2013 =
+
+* New: "Continue" button on contribute box is now at the top, and the text can be controlled by EDD.
+* Fix: When responsive is turned off, fix layout when viewing on mobile device.
+* Fix: Use correct text domain, and fix spelling errors. 
+* Fix: Don't show hamburger menu icon when no custom menu is assigned.
+
+= 1.0: May 7, 2013 =
+
+First release!

@@ -1,0 +1,501 @@
+body{
+	font-family: 'Lato', sans-serif;
+	overflow:x hidden;
+}
+.nav-bg-color{
+	background-color:#2957a4;
+}
+.navbar-inverse {
+	border:none;
+	background-color:#2957a4;
+	border-color:#cc2621;
+}
+.navbar-inverse .navbar-nav>li>a {
+	color:#fff;
+}
+.navbar {
+	margin-bottom:0px;
+}
+
+.navbar-nav>li>a {
+padding-top: 20px;
+padding-bottom: 20px;
+font-size:16px;
+}
+
+.navbar-brand {
+	height:auto;
+	padding:0px;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus {
+	background-color:transparent;
+}
+
+.orange{
+	color:#EB4712;
+}
+.blue{
+	color:#333;
+}
+
+.gather_1a {
+border-bottom: 1px solid #CCCCCE;
+margin: 0 auto;
+padding: 20px 0;
+width: 90%;
+}
+.gather_1b {
+border-bottom: 1px solid #CCCCCE;
+margin-top: 13px;
+
+}
+.set_a {
+position: relative;
+top: -10px;
+}
+.small {
+color: #333;
+font-size: 1.8em;
+font-weight: 400;
+margin-left: 20px;
+margin-bottom:16px;
+line-height:30px;
+}
+.copy ul {
+list-style-image: url('../images/bullet.png');
+margin-left:-20px;
+margin-top:25px;
+}
+.copy li {
+line-height: 25px;
+list-style-image: url("../images/bullet.png");
+margin-bottom: 11px;
+font-size: 17px;
+padding-left:7px;
+}
+
+.form-horizontal .control-label {
+text-align: left;
+}
+
+.form-bg{
+	background-color:#f1f1f1;
+	padding:10px;
+	border:1px solid #ccc;
+	border-radius: 10px;
+	margin-bottom:15px;
+}
+.submit{
+	background-color:#cc2621; 
+	padding: 7px 35px;
+	color:#fff;
+	font-size:20px;
+}
+.submit:hover{
+	background-color:#cc2621; 
+	padding: 7px 35px;
+	color:#fff;
+	font-size:20px;
+}
+
+/* Sticky footer styles
+      -------------------------------------------------- */
+
+      html,
+      body {
+        height: 100%;
+		overflow-x:hidden;
+        /* The html and body elements cannot have any padding or margin. */
+      }
+
+      /* Wrapper for page content to push down footer */
+      #wrap {
+        min-height: 100%;
+        height: auto !important;
+        height: 100%;
+        /* Negative indent footer by it's height */
+        margin: 0 auto 0px;
+      }
+
+      /* Set the fixed height of the footer here */
+      #push,
+      #footer {
+        height: auto;
+      }
+      #footer {
+        background-color: #333;
+      }
+	  .container .credit {
+		margin: 20px 0;
+		color:#fff;
+}
+
+      /* Lastly, apply responsive CSS fixes as necessary */
+      @media (max-width: 767px) {
+        #footer {
+          margin-left: -20px;
+          margin-right: -20px;
+          padding-left: 20px;
+          padding-right: 20px;
+        }
+      }
+	  
+	.gray-light{
+		background-color:#f4f4f4;
+		padding:20px 0px;
+	}
+	
+	.product ul {
+float: left;
+list-style-image: url(../images/bullet.png);
+font-size: 14px;
+padding-left: 15px;
+line-height: 26px;
+/* line-height: 35px; */
+margin: 15px 0 15px 0;
+text-align: left;
+}
+
+.carousel_csp {
+position: relative;
+top: 5px;
+}
+.carousel-inner {
+overflow: hidden;
+position: relative;
+width: 100%;
+/*height: 330px;*/
+}
+.item {
+display: none;
+position: relative;
+-webkit-transition: 0.6s ease-in-out left;
+-moz-transition: 0.6s ease-in-out left;
+-o-transition: 0.6s ease-in-out left;
+transition: 0.6s ease-in-out left;
+}
+.carousel_csp .description_cs {
+position: relative;
+top: 0px;
+}
+.csm {
+padding-top: 20px;
+overflow: hidden;
+font-size: 24px;
+line-height: 150%;
+color: #454545;
+font-family: Georgia, "Times New Roman", Times, serif;
+font-style: italic;
+text-align: left;
+quotes: "\201C""\201D""\2018""\2019";
+/* quotes: "â€œ" "â€" "â€˜" "â€™"; */
+}
+blockquote {
+padding-top: 20px;
+overflow: hidden;
+font-size: 24px;
+line-height: 150%;
+color: #454545;
+font-family: arial, sans-serif;
+font-style: italic;
+text-align: right;
+font-family: Georgia, "Times New Roman", Times, serif;
+quotes: "\201C""\201D""\2018""\2019";
+/* quotes: "â€œ" "â€" "â€˜" "â€™"; */
+}
+.set_21 {
+margin-top: 45px;
+}
+.cite_1 {
+font-family: lato;
+font-size: 16px;
+font-style: italic;
+font-weight: bold;
+color: #494549;
+position: relative;
+top: -10px;
+right: 0px;
+}
+.cite_2 {
+font-family: lato;
+font-size: 16px;
+font-style: italic;
+color: #494549;
+position: relative;
+top: 14px;
+left: -422px;
+}
+
+.carousel {
+	position: relative;
+}
+.carousel_csp {
+	position: relative;
+	top: 5px;
+}
+.carousel-inner {
+	overflow: hidden;
+	position: relative;
+	width: 100%;
+	/*height:330px;*/
+}
+.carousel .img {
+	display: table-cell;
+	height: 364px;
+	line-height: 0;
+	margin-left: 118px;
+	vertical-align: bottom;
+	width: 499px;
+}
+ @media screen and (max-width: 762px) {
+.carousel .img {
+width:50%;
+text-align:center;
+height:auto;
+vertical-align: middle;
+}
+.carousel .img img {
+width:100%;
+text-align:center;
+height:auto;
+}
+}
+ @media screen and (max-width: 525px) {
+.carousel .img {
+width:50%;
+text-align:center;
+height:auto;
+vertical-align: middle;
+}
+.carousel .img img {
+width:120%;
+text-align:center;
+height:auto;
+}
+}
+ @media screen and (max-width: 400px) {
+.carousel .img {
+width:50%;
+text-align:center;
+height:auto;
+vertical-align: middle;
+}
+.carousel .img img {
+width:160%;
+text-align:center;
+height:auto;
+}
+}
+@media screen and (max-width: 360px) {
+.carousel .img {
+width:50%;
+text-align:center;
+height:auto;
+vertical-align: middle;
+}
+.carousel .img img {
+width:192%;
+text-align:center;
+height:auto;
+}
+}
+@media screen and (max-width: 330px) {
+.carousel .img {
+width:50%;
+text-align:center;
+height:auto;
+vertical-align: middle;
+}
+.carousel .img img {
+width:261%;
+text-align:center;
+height:auto;
+}
+}
+@media screen and (max-width: 320px) {
+.carousel .img {
+width:50%;
+text-align:center;
+height:auto;
+vertical-align: middle;
+}
+.carousel .img img {
+width:320%;
+text-align:center;
+height:auto;
+}
+}
+.carousel .description {
+	display: table-cell;
+	margin-left: 62px;
+	margin-top: 35px;
+	vertical-align: middle;
+}
+@media screen and (max-width: 768px) {
+.carousel .description {
+ display:block;
+ margin-left: 62px;
+ margin-top: 35px;
+ vertical-align: middle;
+}
+}
+.carousel_csp .description_cs {
+	position:relative;
+	top:0px;/* display: table-cell;
+    margin-left: 62px;
+    margin-top: 35px;
+    vertical-align: middle;*/
+}
+
+
+.csm:before {
+float: left;
+margin-top: 40px;
+content: open-quote;
+color: #9ac201;
+font-size: 180px;
+}
+.csm:after {
+float: right;
+margin-top: 50px;
+margin-right: 30px;
+content: close-quote;
+color: #9ac201;
+font-size: 180px;
+}
+.carousel h1 {
+	margin-bottom:0;
+	color:#ffffff;
+}
+ @media screen and (max-width: 768px) {
+.carousel p {
+ color:#333;
+ font-size:16px;
+/*FIXED - Carousel text to left not middle
+	text-align:center;*/
+}
+ .carousel h1 {
+ margin-bottom:0;
+ color:#333;
+/*FIXED - Carousel text to left not middle
+	text-align:center;*/
+}
+}
+.carousel-control {
+	height: 43px;
+	left: 15px;
+	position: absolute;
+	width: 44px;
+}
+.carousel-control.prev2 {
+	background: url('../images/btn_prev.png') 0 0 no-repeat;
+	left: 0px;
+	right:auto;
+	top:40%;
+}
+.carousel-control.prev {
+	background: url('../images/btn_prev.png') 0 0 no-repeat;
+	left: 0;
+	top:50%;
+	right:auto;
+}
+.carousel-control.prev:hover {
+	background: url('../images/btn_prev_active.png') 0 0 no-repeat;
+	left: 0px;
+	right:auto;
+}
+.carousel-control.prev2:hover {
+	background: url('../images/btn_prev_active.png') 0 0 no-repeat;
+	left: 0px;
+	right:auto;
+}
+.carousel-control.next {
+	background: url('../images/btn_next.png') 0 0 no-repeat;
+	left: auto;
+	right: 0;
+	top:50%;
+	/*FIXED - Next Button*/
+	z-index:1000;
+}
+.carousel-control.next2 {
+	background: url('../images/btn_next.png') 0 0 no-repeat;
+	left: auto;
+	right: 0px;
+	top:40%;
+}
+.carousel-control.next:hover {
+	background: url('../images/btn_next_active.png') 0 0 no-repeat;
+	left: auto;
+	right: 0;
+}
+.carousel-control.next2:hover {
+	background: url('../images/btn_next_active.png') 0 0 no-repeat;
+	left: auto;
+	right: 0px;
+}
+
+.carousel-control.left {
+	background-image:none;
+	left: -42px;
+	top:115px;
+}
+.carousel-control.right {
+	background-image:none;
+	right:-42px;
+	top:115px;
+}
+blockquote{
+	border-left:none;
+}
+
+/*wufoo form css starts*/
+
+header#header {
+display: none;
+}
+
+li#errorLi {
+display: none;
+}
+
+input#saveForm {
+background-color: #cc2621;
+padding: 7px 35px;
+color: #fff;
+font-size: 20px;
+border-color: #adadad;
+line-height: 1.42857143;
+border-radius: 4px;
+display: inline-block;
+margin-bottom: 0;
+font-weight: 400;
+text-align: center;
+vertical-align: middle;
+cursor: pointer;
+background-image: none;
+border: 1px solid transparent;
+white-space: nowrap;
+}
+
+.wufoo label.desc, .wufoo legend.desc {
+display: inline-block;
+margin-bottom: 5px;
+font-weight: 700;
+font-family: 'Lato', sans-serif !important;
+font-size: 14px;
+line-height: 1.42857143;
+color: #333;
+}
+
+.wufoo li.buttons div{
+text-align:center;
+}
+
+.wufoo input.text, .wufoo input.file {
+font-family: inherit;
+height: 25px;
+width: 100%;
+}
+
+/*wufoo form css ends*/

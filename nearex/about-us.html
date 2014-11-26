@@ -1,0 +1,212 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="css/grid.css" type="text/css">
+<link href="css/custom.css" rel="stylesheet" type="text/css" />
+<link href="css/ddmenuMst.css" rel="stylesheet" type="text/css" />
+<script src="js/ddmenuMst.js"></script>
+<!--<link href="css/video-js.min.css" rel="stylesheet" type="text/css" />-->
+<link href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+<script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
+<script src="js/jquery.easing.min.js"></script>
+<script src="js/jquery.scrollUp.js"></script>
+<!--<script src="js/video.js"></script>-->
+<script>
+
+		/* scrollUp Minimum setup */
+		// $(function () {
+		// 	$.scrollUp();
+		// });
+
+		// scrollUp full options
+		$(function () {
+			$.scrollUp({
+		        scrollName: 'scrollUp', // Element ID
+		        scrollDistance: 300, // Distance from top/bottom before showing element (px)
+		        scrollFrom: 'top', // 'top' or 'bottom'
+		        scrollSpeed: 300, // Speed back to top (ms)
+		        easingType: 'linear', // Scroll to top easing (see http://easings.net/)
+		        animation: 'fade', // Fade, slide, none
+		        animationInSpeed: 200, // Animation in speed (ms)
+		        animationOutSpeed: 200, // Animation out speed (ms)
+		        scrollText: 'false', // Text for element, can contain HTML
+				scrollImg: { active: true, type: 'background', src: '../images/top.png' },
+		        scrollTitle: false, // Set a custom <a> title if required. Defaults to scrollText
+		        scrollImg: true, // Set true to use image
+		        activeOverlay: false, // Set CSS color to display scrollUp active point, e.g '#00FFFF'
+		        zIndex: 2147483647 // Z-Index for the overlay
+			});
+		});
+
+		// Destroy example
+		$(function(){
+			$('.destroy').click(function(){
+				$.scrollUp.destroy();
+			})
+		});
+
+	</script>
+<script type="text/javascript">
+$(document).ready(function(){
+	
+	if (location.hash != '') {
+    var a = $("a[name=" + location.hash.substring(1) + "]");
+    // note that according to w3c specs, the url hash can also refer to the id
+    // of an element. if so, the above statement becomes
+    var a = $(location.hash);
+	console.log(a);
+    if (a.length) {
+        $('html,body').animate({
+            scrollTop: $(a).offset().top
+        }, 'slow');
+    }
+}
+	
+	})
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Nearex</title>
+</head>
+
+<body class="body-bg">
+<div class="container_12 main-banner">
+  <div class="grid_12 margin-top-30">
+    <div class="grid_7 alpha">
+      <div id="">
+        <nav id="ddmenuMst">
+          <ul style="overflow: visible;">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="change.html">Change</a>
+            <div class="drop">
+                <div style="padding-top:0px;">
+                  <div><a href="change.html#need">Need</a>
+                   <a style="border-bottom:none" href="change.html#opportunity">Opportunity</a>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li><a href="what.html">What</a>
+              <div class="drop">
+                <div style="padding-top:0px;">
+                  <div><a href="what.html#solution">The Solution</a>
+                   <a href="what.html#product-features">Product Features</a>
+                  <a href="what.html#how-work">How it works</a> 
+                  <a style="border-bottom:none;" href="what.html#system-architecture">System Architecture</a> </div>
+                </div>
+              </div>
+            </li>
+            <li><a href="for-whom.html">For Whom</a> </li>
+            <li><a class="active"  href="about-us.html">About Us</a>
+              <div class="drop">
+                <div >
+                  <div> <a href="about-us.html#background">Background</a>
+                   <a href="about-us.html#team">Team</a>
+                    <a href="about-us.html#investors">Investors</a> 
+                    <a href="about-us.html#partners">Partners</a> 
+                    <a style="border-bottom:none;" href="about-us.html#contact">Contact</a> </div>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+    <div class="grid_5 omega"> <a href="index.html"><img class="" src="images/logo.png" style="float:right;" /></a> </div>
+  </div>
+  <div class="clearfix"></div>
+  <div id="background" class="grid_12">
+    <div class="grid_2 alpha">&nbsp;</div>
+    <div class="grid_3 omega">
+      <h3>Background</h3>
+    </div>
+    <div class="grid_7">&nbsp;</div>
+  </div>
+  <div class="clearfix"></div>
+  <div class="grid_12">
+    <div class="grid_2 alpha"><img src="images/about-background.png"  style="margin-left:-60px;"/></div>
+    <div class="grid_10 green-bg omega" style="position:static; min-height:243px;">
+      <div style="padding-left:10px;">
+        <div style="padding-left: 64px; font-size: 14px; line-height: 24px;margin-top:50px">
+          <p>Nearex is a high-tech startup incorporated and headquartered in Singapore.</p>
+          <p style="padding-right:10px;">Mobile Phone penetration is reaching the remotest corners of the planet. Many conventional transactions are quickly migrating to the mobile world due the near universal access and affordability. Most emerging solutions are primarily addressing remote transactions. Nearex founding team has realized that there is immense potential to use the unlimited universal mobile connectivity to simplify proximity transactions as well. </p>
+          <!--<p>Nearex has been founded to empower people by simplifying proximity transactions such as Micropayments. </p>--> 
+        </div>
+      </div>
+    </div>
+    <div style="float:right;" class="grid_9"><img style="float: right; margin-top: -50px; margin-right: 100px;" src="images/logo-icon.png" /></div>
+  </div>
+  <div class="clearfix"></div>
+  <div class="margin-top-20"></div>
+  <hr />
+  <div id="team" class="grid_12 margin-top-60 pink">
+    <div class="">
+      <div class="grid_3 alpha"><img src="images/team.png" style="margin-left: -36px;
+margin-top: -32px;" /></div>
+      <div class="grid_2">
+        <h3 class="abt-heading">Team</h3>
+      </div>
+      <div class="grid_2 text-center"><img class="pink-border img-margin-top" src="images/mayank.png" />
+        <div class="img-text">Mayank Sharma<br />
+          CEO</div>
+      </div>
+      <div class="grid_2 text-center"><img class="pink-border img-margin-top" src="images/arun.png" />
+        <div class="img-text">Arun Tanksali<br />
+          CTO</div>
+      </div>
+      <div class="grid_2 text-center"><img class="pink-border img-margin-top" src="images/mahesh.png" />
+        <div class="img-text">Mahesh Goel<br />
+          COO</div>
+      </div>
+      <div class="grid_1 omega">&nbsp;</div>
+    </div>
+    <div class="clearfix"></div>
+    <div class="margin-bottom-20 white-color padding-10" style="padding-left:25px; padding-right:25px; font-size:15px; line-height:21px;">
+      <p>Nearex was founded and is managed by a team of mobile and financial industry veterans.</p>
+      <p>The founders include senior executives from leading mobile money platform companies with first-hand role in success of mobile money in regions such as Africa. They bring experience in technology as well as market development domains across emerging world.</p>
+      <p>Nearex aims to empower people by simplifying proximity transactions such as micropayments.</p>
+    </div>
+  </div>
+  <div class="clearfix"></div>
+  <div id="investors" class="grid_12 margin-top-30">
+    <div class="grid_3 alpha"><img src="images/investors.png" /></div>
+    <div class="grid_9 omega">
+      <h3 style="text-align:left">Investors</h3>
+      <p class="white-color">Nearex is a privately held company with investment from individuals and industry. It is managed by a professional board.</p>
+      <p class="white-color">Early stage investors include veterans with past and present roles in leading global banks. Recent investment was made by Beenos, a Japanese listed entity with extensive payment industry experience. </p>
+    </div>
+  </div>
+  <div class="clearfix"></div>
+  <hr />
+  <div id="partners" class="grid_12 margin-top-30 margin-bottom-20">
+    <div class="grid_3 alpha"><img src="images/partners.png" /></div>
+    <div class="grid_9 omega">
+      <h3 style="text-align:left" class="green-heading">Partners</h3>
+      <p class="white-color">Nearex is establishing partnership agreements with leading mobile money platform companies.</p>
+    </div>
+  </div>
+  <div class="clearfix"></div>
+  <div id="contact" class="grid_12 green-bg margin-top-20 margin-bottom-20">
+    <div class="grid_1 alpha">&nbsp;</div>
+    <div class="grid_2"><img class="padding-10" src="images/contact.png" /></div>
+    <div class="grid_4 margin-top-10">
+      <h3 style="text-align:left" class="pink-color">Contact</h3>
+      <div style="border-right:4px solid #a3278d; color:#231f20; font-size:16px; line-height:22px;">
+        <p class="" style="margin-bottom:0px;"><strong>Nearex Pte Ltd</strong></p>
+        <p class="pargraph"><strong>180B Bencoolen Street #12-05 <br>
+          The Bencoolen, Singapore 189648</strong></p>
+      </div>
+    </div>
+    <div class="grid_3 ">
+      <h4>&nbsp;</h4>
+      <div style="color:#231f20; font-size:16px; line-height:22px;">
+        <p style="margin-top:25px; float:right;"><strong>Phone - +6563166003<br />
+          Email - <a style="text-decoration:none; color:#231f20;" href="mailto:sales@nearex.com">sales@nearex.com</a><br />
+          <a style="text-decoration:none; color:#231f20;" href="http://www.nearex.com" target="_blank">www.nearex.com</a></strong></p>
+      </div>
+    </div>
+    <div class="grid_1 omega">&nbsp;</div>
+  </div>
+</div>
+</body>
+</html>

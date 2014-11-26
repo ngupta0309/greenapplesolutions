@@ -1,0 +1,242 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="css/grid.css" type="text/css">
+<link href="css/custom.css" rel="stylesheet" type="text/css" />
+<link href="css/ddmenuMst.css" rel="stylesheet" type="text/css" />
+<script src="js/ddmenuMst.js"></script>
+<!--<link href="css/video-js.min.css" rel="stylesheet" type="text/css" />-->
+<link href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+<script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
+<script src="js/jquery.easing.min.js"></script>
+<script src="js/jquery.scrollUp.js"></script>
+<!--<script src="js/video.js"></script>-->
+<script>
+
+		/* scrollUp Minimum setup */
+		// $(function () {
+		// 	$.scrollUp();
+		// });
+
+		// scrollUp full options
+		$(function () {
+			$.scrollUp({
+		        scrollName: 'scrollUp', // Element ID
+		        scrollDistance: 300, // Distance from top/bottom before showing element (px)
+		        scrollFrom: 'top', // 'top' or 'bottom'
+		        scrollSpeed: 300, // Speed back to top (ms)
+		        easingType: 'linear', // Scroll to top easing (see http://easings.net/)
+		        animation: 'fade', // Fade, slide, none
+		        animationInSpeed: 200, // Animation in speed (ms)
+		        animationOutSpeed: 200, // Animation out speed (ms)
+		        scrollText: 'false', // Text for element, can contain HTML
+				scrollImg: { active: true, type: 'background', src: '../images/top.png' },
+		        scrollTitle: false, // Set a custom <a> title if required. Defaults to scrollText
+		        scrollImg: true, // Set true to use image
+		        activeOverlay: false, // Set CSS color to display scrollUp active point, e.g '#00FFFF'
+		        zIndex: 2147483647 // Z-Index for the overlay
+			});
+		});
+
+		// Destroy example
+		$(function(){
+			$('.destroy').click(function(){
+				$.scrollUp.destroy();
+			})
+		});
+
+	</script>
+<script type="text/javascript">
+$(document).ready(function(){
+	
+	if (location.hash != '') {
+    var a = $("a[name=" + location.hash.substring(1) + "]");
+    // note that according to w3c specs, the url hash can also refer to the id
+    // of an element. if so, the above statement becomes
+    var a = $(location.hash);
+	console.log(a);
+    if (a.length) {
+        $('html,body').animate({
+            scrollTop: $(a).offset().top
+        }, 'slow');
+    }
+}
+	
+	})
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Nearex</title>
+</head>
+
+<body class="body-bg">
+<div class="container_12 main-banner what-bg">
+  <div class="grid_12 margin-top-30">
+    <div class="grid_7 alpha">
+      <div id="">
+        <nav id="ddmenuMst">
+          <ul style="overflow: visible;">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="change.html">Change</a>
+            <div class="drop">
+                <div style="padding-top:0px;">
+                  <div><a href="change.html#need">Need</a>
+                   <a style="border-bottom:none" href="change.html#opportunity">Opportunity</a>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li><a class="active" href="what.html">What</a>
+            <div class="drop">
+                <div style="padding-top:0px;">
+                  <div><a href="what.html#solution">The Solution</a>
+                   <a href="what.html#product-features">Product Features</a>
+                  <a href="what.html#how-work">How it works</a> 
+                  <a style="border-bottom:none;" href="what.html#system-architecture">System Architecture</a> </div>
+                </div>
+              </div>
+            </li>
+          <li><a href="for-whom.html">For Whom</a> </li>
+          <li><a href="about-us.html">About Us</a>
+          <div class="drop">
+                <div >
+                  <div> <a href="about-us.html#background">Background</a>
+                   <a href="about-us.html#team">Team</a>
+                    <a href="about-us.html#investors">Investors</a> 
+                    <a href="about-us.html#partners">Partners</a> 
+                    <a style="border-bottom:none;" href="about-us.html#contact">Contact</a> </div>
+                </div>
+              </div>
+          </li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+    
+    <div class="grid_5 omega"> <a href="index.html"><img class="" src="images/logo.png" style="float:right;" /></a> </div>
+  </div>
+  <div class="clearfix"></div>
+  <div id="solution" class="grid_12 margin-top-20 text-center "><img src="images/what-solution.png" /></div>
+  <div class="clearfix"></div>
+  <div id="product-features" class="grid_12 pink" style="padding-left:10px;padding-right:10px">
+  
+  <h4 style="padding:6px;">Product Features</h4>
+  <p style="color:#fff; padding:6px;">Xip<sup>TM</sup> Micropayment System has been designed around established communication standards with focus on the ease of integration with existing mobile wallets, electronic banking accounts and telecom networks. It is built for high scalability, high security and high availability. </p>
+  <div class="grid_4 alpha">
+  <div class="grid_1 alpha text-center"><img  src="images/xip.png" /></div>
+  <div class="grid_3 omega">
+  <h4>XipPOS</h4>
+  <p style="color:#fff;">Mobile POS for merchants</p>
+  <div class="features">
+  <ul>
+  <li>Quad-based GSM/ GPRS</li>
+  <li>Credit card size</li>
+  <li>Ruggedized design for use in harsh environments</li>
+  <li>Bright color TFT display</li>
+  <li>Long battery life</li>
+  <li>Contactless NFC interface</li>
+  <li>Ergonomic numeric keypad</li>
+  <li>Shortcut keys for frequent operations</li>
+  <li>Hook for neck strap/ belt clip</li>
+  <li>GPRS with USSD fallback connectivity</li>
+   <li>XipAGENT - specially designed for provisioning of XipPOS and XipTAG at MNO</li>
+  </ul>
+  </div>
+  </div>
+  </div>
+  <div class="grid_4">
+  <div class="grid_1 alpha"><img src="images/xip-tag.png" /></div>
+  <div class="grid_3 omega">
+  <h4>XipTAG</h4>
+  <p style="color:#fff;">Contactless card for consumers</p>
+  <div class="features">
+  <ul>
+  <li>High security card</li>
+  <li>Long life</li>
+  <li>Space for consumer personalization</li>
+  <li>Laser etched ID for visual identification</li>
+  <li>Designed for co-branding with the MMSP</li>
+  <li>Option for sticker versions</li>
+  </ul>
+  </div>
+  </div>
+  </div>
+  <div class="grid_4 omega">
+  <div class="grid_1 alpha"><img src="images/xms.png" /></div>
+  <div class="grid_3 omega">
+  <h4>XipMS</h4>
+  <p style="color:#fff;">Xip<sup>TM</sup> mediation and web server</p>
+  <div class="features">
+  <ul>
+  <li>COTS Intel-Linux rack mount servers</li>
+  <li>Network glue elements</li>
+  <li>High availability through N+1 redundancy support</li>
+  <li>On-net system with secured interface to the mobile money platform and other network elements</li>
+  <li>Administration interface</li>
+  <li>Integration with customer care system</li>
+  <li>Interface for NOC, SNMP support</li>
+  <li>Remote administration and support</li>
+  
+  </ul>
+  </div>
+  </div>
+  </div>
+  </div>
+  <div class="clearfix"></div>
+  <div id="how-work" class="grid_12 main-banner">
+  <div class="text-center">
+  <h4 style="text-align:left;" class="margin-top-30">How it works</h4>
+  <img src="images/merchant.png" />
+  </div>
+  <div class="clearfix"></div>
+  <div id="system-architecture" class="text-center">
+  <h4 style="text-align:left;" class="pink-color margin-top-30">System Architecture</h4>
+  <img src="images/system-architecture.png" />
+  </div>
+  
+  </div>
+  <div class="clearfix"></div>
+  <div class="grid_12 green-bg margin-top-30 margin-bottom-20" style="padding-left:10px;padding-right:10px">
+  <div class="grid_1 alpha">&nbsp;</div>
+  <div class="grid_5 alpha margin-top-20 margin-bottom-20">
+  <div class="features" >
+  <h4 style="color:#333;">System Highlights</h4>
+  <ul>
+  <li style="color:#333;">GPRS, USSD and SMS connectivity</li>
+  <li style="color:#333;">Supports wide range of mobile money and banking systems</li>
+   <li style="color:#333;">Secured tunnel for consumer 
+PIN Information </li>
+    <li style="color:#333;">Merchant XipPOS and consumer 
+XipTAG provisioning</li>
+     <li style="color:#333;">Ticker for promotions</li>
+      <li style="color:#333;">Fraud prevention</li>
+       <li style="color:#333;">Speeds up cash-in / 
+cash-out and airtime sales</li>
+  </ul>
+  </div>
+  </div>
+  
+  <div class="grid_5 omega margin-top-20 margin-bottom-20">
+  <div class="features" >
+  <h4 style="color:#333;">System Features</h4>
+  <ul>
+  <li style="color:#333;">
+Connects directly to the merchant's mobile money account and can be configured for a 'receive only' mode, enabling larger merchants to issue a XipPOS to each employee</li>
+  <li style="color:#333;">Its sophisticated contactless technology and small size allows easy transactions in all kinds of practical situations that merchants face in their daily life</li>
+   <li style="color:#333;">XipTAG can be paired with mobile network from any MNO. Only the mobile money account ID needs to be from the same service.
+ </li>
+    
+  </ul>
+  </div>
+  </div>
+  <div class="grid_1">&nbsp;</div>
+  </div>
+  
+  <!--<div class="grid_12 margin-top-20 text-center">
+    <div class="grid_12">
+      <aside class="clearfix"> <a href="#" target="_blank" class="met_color3 met_color_transition"><i class="icon-facebook"></i></a> <a href="#" target="_blank" class="met_color3 met_color_transition"><i class="icon-twitter"></i></a> <a href="#" target="_blank" class="met_color3 met_color_transition"><i class="icon-google-plus"></i></a> <a href="#" target="_blank" class="met_color3 met_color_transition"><i class="icon-linkedin"></i></a> </aside>
+    </div>
+  </div>-->
+</div>
+</body>
+</html>

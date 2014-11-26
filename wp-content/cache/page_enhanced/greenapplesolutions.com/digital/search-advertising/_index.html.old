@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head><link rel="stylesheet" type="text/css" href="http://greenapplesolutions.com/wp-content/cache/minify/000000/bY5RDsMgCEAvVOf6tfMQwYZEwQhd4-1nuu2n2y88Hm-NlZAhbJ0xJrOYdnOtyxqTikPykLXX8IgsqexIdkLmo5BNiMBGQN7YoQTUQ4oCWnSqrYBPmhBvlWW5xwS1AW_CeZwOEh9NL4tT_AfuZE3F-Enz6aU4z9AAB5lW-hl8Gz83UAr1tzL3iZHgCw.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://greenapplesolutions.com/wp-content/cache/minify/000000/M9QvzixJzU0s0E8uLtYvSExP1c3JLC4BAA.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://greenapplesolutions.com/wp-content/cache/minify/000000/dYxBDoAgDAQ_ZNP4Dz9RsEEiiGlplN-L3Dx4292Z7IyO_B6k2LFCpoMCCwprMfGs6FXxNDfNeJ1gcfSRPkvdOPMLLEKKYau_lFLqjEkbZF4jQegLSxui1pa6OIArNy7v1QM.css" media="all" />
+
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width" />
+
+	<link rel="shortcut icon" href="/favicon.ico" />
+	
+	<title>Search Advertising	 | Green Apple Solutions</title>
+
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="http://greenapplesolutions.com/xmlrpc.php" />
+
+
+	<!--[if lt IE 9]>
+	<script src="http://greenapplesolutions.com/wp-content/themes/campaignify/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+	<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.min.css" />
+	<link rel="alternate" type="application/rss+xml" title="Green Apple Solutions &raquo; Feed" href="http://greenapplesolutions.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Green Apple Solutions &raquo; Comments Feed" href="http://greenapplesolutions.com/comments/feed/" />
+
+
+
+<link rel='stylesheet' id='campaignify-fonts-css'  href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic|Crete+Round:400,400italic|Norican&#038;subset=latin' type='text/css' media='all' />
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var background_manager_ajax = {"url":"http://greenapplesolutions.com/wp-admin/admin-ajax.php","action":"background-manager","nonce":"065547e275","nonceresponse":"aa0600212b"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://greenapplesolutions.com/wp-content/cache/minify/000000/M9bPKixNLarUMYYydHMz04sSS1L1cjPzAA.js"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var edd_scripts = {"ajaxurl":"http:\/\/greenapplesolutions.com\/wp-admin\/admin-ajax.php","ajax_nonce":"2032a2ba54","position_in_cart":"","already_in_cart_message":"You have already added this item to your cart","empty_cart_message":"Your cart is empty","loading":"Loading","select_option":"Please select an option","ajax_loader":"http:\/\/greenapplesolutions.com\/wp-content\/plugins\/easy-digital-downloads\/assets\/images\/loading.gif","is_checkout":"0","default_gateway":"paypal","redirect_to_checkout":"0","checkout_page":"http:\/\/greenapplesolutions.com\/?page_id=6","permalinks":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://greenapplesolutions.com/wp-content/cache/minify/000000/RcxBCoAwDADBD5mGgj4omFAiaQOmov29ogdvexg2o1AMYC3ayYD9bObEgRQhPXALFGagja5UtU3581VYCQqZyT5Q22oHy6ure3e3P2D1XSCnOS3wHG4.js"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var EasyLite = {"nblaswf":"http:\/\/greenapplesolutions.com\/wp-content\/plugins\/easy-media-gallery\/includes\/swf\/NonverBlaster.swf","audiovol":"100","audioautoplay":"true","audioloop":"true","vidautopa":"&autoplay=1","vidautopb":"?autoplay=1","vidautopc":"1","vidautopd":"true","drclick":"true","ajaxcid":"#content","ajaxpth":"\/wp-content\/plugins\/easy-media-gallery\/includes\/easyloader.php","ovrlayop":"0.8"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://greenapplesolutions.com/wp-content/cache/minify/000000/hZDRDoMwCEV_SCVmX1RbbDBt2QpkcV8_Y-LLgtnrPQcuYQYMso8VE4Uxh1Kw70AtFksosAlUZmUucnqnNsz_ZlZrEdbOTbGl4QFGsL3ssCajKXLHqVL7zd-UMqpHNCzi5SEeuxJx82BlE7eno9AnLMWFqYec7-Biqn7Zk4X05pDjSYWzR4S7Xl1f.js"></script>
+<script type='text/javascript' src='http://greenapplesolutions.com/?wpui-script=before&#038;ver=3.6.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpUIOpts = {"wpUrl":"http:\/\/greenapplesolutions.com","pluginUrl":"http:\/\/greenapplesolutions.com\/wp-content\/plugins\/wp-ui\/","enableTabs":"on","enableAccordion":"on","enableSpoilers":"on","enableDialogs":"on","tabsEffect":"none","effectSpeed":"","accordEffect":"none","alwaysRotate":"disable","tabsEvent":"click","collapsibleTabs":"off","accordEvent":"click","singleLineTabs":"","accordAutoHeight":"off","accordCollapsible":"off","accordEasing":"false","mouseWheelTabs":"false","bottomNav":"on","tabPrevText":"","tabNextText":"","spoilerShowText":"","spoilerHideText":"","cookies":"off","hashChange":"off","docWriteFix":"off","linking_history":"off","misc_options":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://greenapplesolutions.com/wp-content/cache/minify/000000/M9QvL9AtzdTPKoYwAA.js"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var myatu_bgm = {"current_background":{"id":524,"url":"http:\/\/greenapplesolutions.com\/wp-content\/uploads\/2013\/07\/Careers-bg.jpg","alt":"","desc":"","caption":"Careers-bg","link":"http:\/\/greenapplesolutions.com\/","thumb":"http:\/\/greenapplesolutions.com\/wp-content\/uploads\/2013\/07\/Careers-bg-150x150.jpg","bg_link":"","transition":"crossfade","transition_speed":0},"change_freq":"0","active_gallery":"495","is_fullsize":"true","is_preview":"false","initial_ease_in":"true","info_tab_thumb":"true","bg_click_new_window":"false","bg_track_clicks":"false","bg_track_clicks_category":"Background Manager","fs_center":"true"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://greenapplesolutions.com/wp-content/cache/minify/000000/M9RPSkzOTi_KL81L0c1NzEtMTy3SL0otzi8tSk4t1s8q1k8rzUsuyczPK9YxJKw2p7SCCGUFpUkA.js"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://greenapplesolutions.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://greenapplesolutions.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Search Engine Optimization' href='http://greenapplesolutions.com/digital/search-engine-optimization/' />
+<link rel='next' title='Mobile Marketing' href='http://greenapplesolutions.com/digital/mobile-marketing/' />
+<meta name="generator" content="WordPress 3.6.1" />
+<link rel='canonical' href='http://greenapplesolutions.com/digital/search-advertising/' />
+<meta name="generator" content="Easy Digital Downloads v1.7.2" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="/wp-content/plugins/easy-media-gallery/includes/dynamic-style.php" />
+<!--@since 1.2.29-->
+<!--<link rel="stylesheet" href="" type="text/css" media="screen" />-->
+
+<!-- Easy Media Gallery Lite START (version 1.2.51)-->       
+    
+    <script type="text/javascript">
+	/*<![CDATA[*/
+	/* Easy Media Gallery */
+    jQuery(document).ready(function($) {	
+		var add = "easymedia";
+jQuery('.da-thumbs a[rel!="easymedia"]').attr('rel', function (i, old) {
+    return old ? old + ' ' + add : add; });		
+    });
+    /*]]>*/</script>	
+
+    <!--[if lt IE 9]>
+<script src="http://greenapplesolutions.com/wp-content/plugins/easy-media-gallery/includes/js/func/html5.js" type="text/javascript"></script>
+<![endif]-->  
+
+
+<!-- Easy Media Gallery Lite  END  -->   
+    
+	<meta property="og:title" content="Search Advertising" /><meta property="og:type" content="article" /><meta property="og:url" content="http://greenapplesolutions.com/digital/search-advertising/" /><meta property="og:site_name" content="Green Apple Solutions" /><meta property="og:description" content="Consumers today are constantly using internet to discover and research the products and services that they are looking for. Almost all of them turn to search engines to answer their questions. Out of all the methods of acquiring new consumer leads online, being presented as an outcome of a search is one of the most &hellip;" /><meta property="og:image" content="http://static.greenapplesolutions.com/Green-Apple-Solutions-OG-Logo.jpg" /><meta name="viewport" content="initial-scale=1">	<style id="campaignify-css">
+		a,
+		.site-branding:hover .site-title,
+		.nav-menu-primary ul li a:hover,
+		.nav-menu-primary li a:hover,
+		.entry-meta a:hover,
+		.blog-widget a:hover,
+		.entry-header .entry-title a:hover {
+			color: #3ea5ce;
+		}
+
+		.nav-menu-primary li.login a:hover,
+		.page-header,
+		.footer-social .btt:hover,
+		a.page-numbers:hover {
+			background-color: #3ea5ce;
+		}
+
+		.button-primary,
+		.edd-add-to-cart,
+		.donation-progress {
+			background-color: #f16562;
+		}
+	</style>
+<style>#widget_campaignify_hero_contribute-2 { background-color: #ffffff; color: #ffffff; }#widget_campaignify_hero_contribute-2 .donation-share-buttons a { color: #ffffff; }#widget_campaignify_campaign_widgets-3 { background-color: #ffffff; color: #818080; }</style><style type="text/css" media="screen">body { background-image: none !important;background-color: #ffffff !important; } </style>
+	<style type="text/css">
+		.site-title span {
+		position: absolute;
+		clip: rect(1px, 1px, 1px, 1px);
+	}
+		.site-branding,
+	.site-description {
+		color: #blank;
+	}
+	</style>
+		
+</head>
+
+<body class="page page-id-572 page-child parent-pageid-483 page-template-default custom-background custom-font">
+	<div id="page" class="hfeed site">
+
+		<header id="masthead" class="site-header" role="banner">
+			<div class="container">
+				<div class="site-header-main">
+					<a href="http://greenapplesolutions.com/" title="Green Apple Solutions" rel="home" class="site-branding">
+												<hgroup>
+							<h1 class="site-title">
+																	<img src="http://greenapplesolutions.com/wp-content/uploads/2013/08/cropped-logo-with-name-without-White-BG11.png" width="639" height="150" alt="" />
+								
+								<span>Green Apple Solutions</span>
+							</h1>
+							<h2 class="site-description"></h2>
+						</hgroup>
+					</a>
+
+					<nav id="site-navigation" class="site-primary-navigation">
+						<div class="menu-main-menu-container"><ul id="menu-main-menu" class="nav-menu-primary"><li id="menu-item-1562" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1562"><a href="http://greenapplesolutions.com/about/industries/">Industries</a></li>
+<li id="menu-item-1560" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1560"><a href="http://greenapplesolutions.com/services/">Services</a></li>
+<li id="menu-item-1559" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1559"><a href="http://greenapplesolutions.com/about/">Company</a>
+<ul class="sub-menu">
+	<li id="menu-item-1569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1569"><a href="http://greenapplesolutions.com/about/team/">Our Team</a></li>
+</ul>
+</li>
+<li id="menu-item-371" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-371"><a href="/products">Products</a></li>
+<li id="menu-item-1535" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1535"><a href="http://greenapplesolutions.com/careers/">Careers</a></li>
+<li id="login-modal" class="login menu-item menu-item-type-post_type menu-item-object-page menu-item-827"><a href="http://greenapplesolutions.com/contact-us/">Contact Us</a></li>
+</ul></div>					</nav>
+
+										<a href="#" class="primary-menu-toggle"><i class="icon-menu"></i></a>
+									</div>
+			</div>
+		</header><!-- #masthead -->
+
+		<div id="main" class="site-main">
+
+		<header class="page-header arrowed">
+		<h1 class="page-title">Search Advertising</h1>
+	</header>
+	
+	<div class="container">
+		<div id="primary" class="content-area">
+			<div id="content" class="site-content" role="main">
+
+				
+					
+<article id="post-572" class="post-572 page type-page status-publish hentry">
+	
+	
+		<div class="entry-content">
+		<p>Consumers today are constantly using internet to discover and research the products and services that they are looking for. Almost all of them turn to search engines to answer their questions. Out of all the methods of acquiring new consumer leads online, being presented as an outcome of a search is one of the most efficient way. Would it not be nice that whenever someone enters a query on Google that your service or product can fulfill and they are presented with the detail of your offering and a link to your site? Search Advertising is the fastest and the most effective way to achieve this. When done properly search advertising can start yielding great results almost immediately. And this is where our Search engine advertising consultants come into picture. Search advertising is a science and our consultants have mastered it well. We understand that the needs of every business are different and that means the strategy for every business has to be different as well. Our consultants come armed with years of extensive experience of designing, developing and executing search advertising campaigns for numerous clients of several different verticals. Our strategy is research driven and data backed which involves an in-depth understanding of your business, a keen study of market trends in our industry and thorough knowledge of search patterns. This way we make sure that every dollar of yours that is spent in advertising takes you one step closer to your goal. Our ultimate goal is to run a highly optimized campaign for you so that you get the most bang for your buck.</p>
+<p>We make every penny count.</p>
+
+				
+		
+			</div>
+	</article><!-- #post -->					
+<div id="comments" class="comments-area">
+
+	
+	
+									
+</div><!-- #comments -->					
+				
+			</div><!-- #content -->
+		</div><!-- #primary -->
+
+			<div id="tertiary" class="sidebar-container" role="complementary">
+		<div class="blog-widget-area">
+			<aside id="search-3" class="blog-widget widget_search"><form role="search" method="get" id="searchform" action="http://greenapplesolutions.com/">
+	<label class="screen-reader-text" for="s">Search for:</label>
+	<input type="text" value="" name="s" id="s" placeholder="Search this website" />
+	<i class="icon-search"></i>
+	<input type="submit" id="searchsubmit" value="Search" />
+</form></aside><aside id="text-11" class="blog-widget widget_text">			<div class="textwidget">
+<!-- Page-list plugin v.4.2 wordpress.org/plugins/page-list/ -->
+<ul class="page-list siblings-page-list ">
+<li class="page_item page-item-581"><a href="http://greenapplesolutions.com/digital/bespoke-website-designs/">Bespoke Website Designs</a></li>
+<li class="page_item page-item-583"><a href="http://greenapplesolutions.com/digital/content-management-systems/">Content Management Systems</a></li>
+<li class="page_item page-item-549"><a href="http://greenapplesolutions.com/digital/strategic-consultancy/">Strategic Consultancy</a></li>
+<li class="page_item page-item-551"><a href="http://greenapplesolutions.com/digital/social-media-engagement/">Social Media Engagement</a></li>
+<li class="page_item page-item-553"><a href="http://greenapplesolutions.com/digital/social-search-optimization/">Social Search Optimization</a></li>
+<li class="page_item page-item-556"><a href="http://greenapplesolutions.com/digital/social-media-audits/">Social Media Audits</a></li>
+<li class="page_item page-item-558"><a href="http://greenapplesolutions.com/digital/competitor-sector-analysis/">Competitor &#038; Sector Analysis</a></li>
+<li class="page_item page-item-561"><a href="http://greenapplesolutions.com/digital/social-media-for-b2b/">Social Media for B2B</a></li>
+<li class="page_item page-item-563"><a href="http://greenapplesolutions.com/digital/social-media-advertising/">Social Media Advertising</a></li>
+<li class="page_item page-item-566"><a href="http://greenapplesolutions.com/digital/reputation-monitoring/">Reputation Monitoring</a></li>
+<li class="page_item page-item-569"><a href="http://greenapplesolutions.com/digital/search-engine-optimization/">Search Engine Optimization</a></li>
+<li class="page_item page-item-572 current_page_item"><a href="http://greenapplesolutions.com/digital/search-advertising/">Search Advertising</a></li>
+<li class="page_item page-item-575"><a href="http://greenapplesolutions.com/digital/mobile-marketing/">Mobile Marketing</a></li>
+<li class="page_item page-item-578"><a href="http://greenapplesolutions.com/digital/video-marketing/">Video Marketing</a></li>
+
+</ul></div>
+		</aside>		</div>
+	</div><!-- #tertiary -->	</div>
+
+
+		</div><!-- #main -->
+		<footer id="colophon" class="site-footer" role="contentinfo">
+			
+						<div class="footer-social">
+									<a target="_blank" class="rss hidden" href=""><i class="icon-rss"></i></a>
+									<a target="_blank" class="twitter" href="http://twitter.com/haraseb"><i class="icon-twitter"></i></a>
+									<a target="_blank" class="facebook" href="http://facebook.com/greenapplesolutions"><i class="icon-facebook"></i></a>
+									<a target="_blank" class="linkedin" href="http://www.linkedin.com/company/1117093"><i class="icon-linkedin"></i></a>
+									<a target="_blank" class="gplus" href="https://plus.google.com/114261224631068280852"><i class="icon-gplus"></i></a>
+									<a target="_blank" class="pinterest hidden" href=""><i class="icon-pinterest"></i></a>
+									<a target="_blank" class="instagram hidden" href=""><i class="icon-instagram"></i></a>
+									<a target="_blank" class="vimeo hidden" href=""><i class="icon-vimeo"></i></a>
+				
+				<a href="#" class="btt"><i class="icon-up-open-big"></i></a>
+			</div>
+			
+			<div class="copyright container">
+				<div class="site-info">
+					&copy; 2014 Green Apple Solutions. All Rights Reserved				</div><!-- .site-info -->
+
+				<nav id="site-footer-navigation" class="footer-navigation">
+					<div class="menu-footer-container"><ul id="menu-footer" class="nav-menu"><li id="menu-item-472" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-472"><a href="/">Home</a></li>
+<li id="menu-item-476" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-476"><a href="/about">About</a></li>
+<li id="menu-item-477" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-477"><a title="CSR Initiatives of Green Apple Solutions" target="_blank" href="http://shareblood.org/">CSR</a></li>
+<li id="menu-item-812" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-812"><a href="http://greenapplesolutions.com/careers/">Careers</a></li>
+<li id="menu-item-481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-481"><a href="http://greenapplesolutions.com/contact-us/">Contact Us</a></li>
+</ul></div>				</nav>
+			</div>
+		</footer><!-- #colophon -->
+	</div><!-- #page -->
+
+		<script type="text/javascript">
+	// Media Grid global vars
+	mg_boxMargin = 5;
+	mg_boxBorder = 1;
+	mg_imgPadding = 3;
+	mg_filters_behav = 'standard';
+	mg_lightbox_mode = "mg_classic_lb";
+	mg_lb_touchswipe = false;
+	mg_mobile = 800; 
+	mg_basescript = "http://greenapplesolutions.com/wp-content/plugins/media-grid";
+	
+	// Galleria global vars
+	mg_galleria_fx = 'fadeslide';
+	mg_galleria_fx_time = 400; 
+	mg_galleria_interval = 3000;
+	
+	// loader manager for IE 9 and older with body class
+	if(	navigator.appVersion.indexOf("MSIE 8.") != -1 || navigator.appVersion.indexOf("MSIE 9.") != -1 ) {
+		document.body.className += ' mg_old_loader';
+	} else {
+		document.body.className += ' mg_new_loader';
+	}
+	</script>	
+	        <script type="text/javascript">
+		jQuery(document).ready(function() {
+			jQuery('body').delegate('.mg_grid_wrap *, #mg_full_overlay *', "contextmenu", function(e) {
+                e.preventDefault();
+            });
+		});
+		</script>
+        
+<div id="login-modal-wrap" class="modal-login modal">
+	<h2 class="modal-title">Sign In</h2>
+
+	<div class="atcf-login">
+		<form name="loginform" id="loginform" action="http://greenapplesolutions.com/wp-login.php" method="post">
+			
+			<p class="login-username">
+				<label for="user_login">Username</label>
+				<input type="text" name="log" id="user_login" class="input" value="" size="20" />
+			</p>
+			<p class="login-password">
+				<label for="user_pass">Password</label>
+				<input type="password" name="pwd" id="user_pass" class="input" value="" size="20" />
+			</p>
+			
+			<p class="login-remember"><label><input name="rememberme" type="checkbox" id="rememberme" value="forever" /> Remember Me</label></p>
+			<p class="login-submit">
+				<input type="submit" name="wp-submit" id="wp-submit" class="button-primary" value="Log In" />
+				<input type="hidden" name="redirect_to" value="http://greenapplesolutions.com/digital/search-advertising/" />
+			</p>
+			<p>
+		<a href="http://greenapplesolutions.com/wp-login.php?action=lostpassword">Forgot Password</a> or <a href="http://greenapplesolutions.com/?page_id=74">Register</a></p>
+		</form></div>
+</div>
+<div id="register-modal-wrap" class="modal-register modal">
+	<h2 class="modal-title">Sign Up</h2>
+
+	<div class="atcf-register"><form name="registerform" id="registerform" action="" method="post">	<p class="atcf-register-name">
+		<label for="user_nicename">Your Name</label>
+		<input type="text" name="displayname" id="displayname" class="input" value="" />
+	</p>
+
+	<p class="atcf-register-email">
+		<label for="user_login">Email Address</label>
+		<input type="text" name="user_email" id="user_email" class="input" value="" />
+	</p>
+
+	<p class="atcf-register-username">
+		<label for="user_login">Username</label>
+		<input type="text" name="user_login" id="user_login" class="input" value="" />
+	</p>
+
+	<p class="atcf-register-password">
+		<label for="user_pass">Password</label>
+		<input type="password" name="user_pass" id="user_pass" class="input" value="" />
+	</p>
+
+	<p class="atcf-register-submit">
+		<input type="submit" name="submit" id="submit" class="button-primary" value="Register" />
+		<input type="hidden" name="action" value="atcf-register-submit" />
+		<input type="hidden" id="_wpnonce" name="_wpnonce" value="9e1f5b0e3b" /><input type="hidden" name="_wp_http_referer" value="/digital/search-advertising/" />	</p>
+</form></div>
+</div>
+<!-- Background Manager Start -->
+<div id="myatu_bgm_img_group" class="myatu_bgm_fs" style="overflow: hidden;"><script type="text/javascript">
+    /*<![CDATA[*/
+        try{(function(a){myatu_bgm.addTopImage("",function(){if((typeof myatu_bgm!=="undefined")&&(myatu_bgm.initial_ease_in==="true")){a(this).fadeIn("slow")}else{a(this).show()}})}(jQuery))}catch(e){};
+    /*]]>*/
+    </script><noscript><img id="myatu_bgm_top" class="myatu_bgm_fs" src="http://greenapplesolutions.com/wp-content/uploads/2013/07/Careers-bg.jpg" alt=""   /></noscript></div>
+<!-- Background Manager End -->
+<script type="text/javascript" src="http://greenapplesolutions.com/wp-content/cache/minify/000000/M9TPTU3JTNRNL8pM0c8q1k8rys8rSc1L0THUTwayEpNLdNPyi3J1zfUz85JzSlNSi0GqsgpLU4sq9UAyermZeQA.js"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/greenapplesolutions.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://greenapplesolutions.com/wp-content/cache/minify/000000/VcpLCsMwDADRC8VWs-p5VFkOcv2rJUN8-1K6CFkNDG8HatWQzMU2inuCVMozsEJSUBrSTbcdGHW5wkHQHZgzj3WD6TN_6x8fxYxP2x5AWDrKUSWui_mIldarnb4jvb8.js"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var campaignifySettings = {"l10n":[],"ajaxurl":"http:\/\/greenapplesolutions.com\/wp-admin\/admin-ajax.php","page":{"is_campaign":false,"is_single_comments":false,"is_blog":false},"campaignWidgets":{"widget_campaignify_hero_contribute":false,"widget_campaignify_campaign_widgets":false},"security":{"gallery":"5dc54827d8"},"currency":{"thousands":",","decimal":".","symbol":"&#36;"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://greenapplesolutions.com/wp-content/cache/minify/000000/M9BPTswtSMxMz8tMq9TPKkbmAgA.js"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16774060-19']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Minified using disk
+Page Caching using disk: enhanced
+Object Caching 1938/1988 objects using disk
+
+ Served from: greenapplesolutions.com @ 2014-11-20 05:27:50 by W3 Total Cache -->

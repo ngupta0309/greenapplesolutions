@@ -1,0 +1,11 @@
+ŽtT<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:509;s:11:"post_author";s:1:"2";s:9:"post_date";s:19:"2013-07-29 22:20:35";s:13:"post_date_gmt";s:19:"2013-07-29 22:20:35";s:12:"post_content";s:1212:"<h3>Count on Us</h3>
+
+Green Apple Solutions is an innovative technology focused firm. We have a well balanced portfolio of Social Media services, and technology based solutions.
+
+<h3>Digital</h3>
+
+Our core strength is to help companies manage their digital marketing strategy and investments in social media based on measurable outcomes and in the context of broader, multichannel marketing efforts. We enable marketers to measure their social media efforts, and understand how conversations on social networks and online communities influence marketing performance. Our social media experts help removing the guesswork associated with social media engagement, and replace it with strategies and experimentation built on insight.
+
+<h3>Technology</h3>
+
+At Green Apple Solutions, we use state of the art technology along with our in-depth understanding of business processes to deliver customized solutions and applications. We develop integrated, interoperable and fully scalable business solutions and web applications that function in complex distributed environments. We work with heterogeneous platforms to develop and deliver technology solutions that evolve with business growth and require minimum support.";s:10:"post_title";s:8:"About Us";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:5:"about";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2013-07-29 22:20:35";s:17:"post_modified_gmt";s:19:"2013-07-29 22:20:35";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:35:"http://beta.gas.ind.in/?page_id=509";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

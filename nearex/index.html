@@ -1,0 +1,110 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="css/grid.css" type="text/css">
+<link href="css/custom.css" rel="stylesheet" type="text/css" />
+<link href="css/ddmenuMst.css" rel="stylesheet" type="text/css" />
+<script src="js/ddmenuMst.js"></script>
+<!--<link href="css/video-js.min.css" rel="stylesheet" type="text/css" />-->
+<link href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+<script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
+<!--<script src="js/video.js"></script>-->
+<script type="text/javascript">
+$(document).ready(function(){
+	
+	if (location.hash != '') {
+    var a = $("a[name=" + location.hash.substring(1) + "]");
+    // note that according to w3c specs, the url hash can also refer to the id
+    // of an element. if so, the above statement becomes
+    var a = $(location.hash);
+	console.log(a);
+    if (a.length) {
+        $('html,body').animate({
+            scrollTop: $(a).offset().top
+        }, 'slow');
+    }
+}
+	
+	})
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Nearex</title>
+</head>
+
+<body class="body-bg">
+<div class="container_12">
+  <div class="grid_12 margin-top-30">
+    <div class="grid_7 alpha">
+      <div id="">
+        <nav id="ddmenuMst">
+          <ul style="overflow: visible;">
+            <li><a class="active" href="index.html">Home</a></li>
+            <li><a href="change.html">Change</a>
+            <div class="drop">
+                <div style="padding-top:0px;">
+                  <div><a href="change.html#need">Need</a>
+                   <a style="border-bottom:none" href="change.html#opportunity">Opportunity</a>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li><a href="what.html">What</a>
+              <div class="drop">
+                <div style="padding-top:0px;">
+                  <div><a href="what.html#solution">The Solution</a>
+                   <a href="what.html#product-features">Product Features</a>
+                  <a href="what.html#how-work">How it works</a> 
+                  <a style="border-bottom:none;" href="what.html#system-architecture">System Architecture</a> </div>
+                </div>
+              </div>
+            </li>
+            <li><a href="for-whom.html">For Whom</a> </li>
+            <li><a href="about-us.html">About Us</a>
+              <div class="drop">
+                <div >
+                  <div> <a href="about-us.html#background">Background</a>
+                   <a href="about-us.html#team">Team</a>
+                    <a href="about-us.html#investors">Investors</a> 
+                    <a href="about-us.html#partners">Partners</a> 
+                    <a style="border-bottom:none;" href="about-us.html#contact">Contact</a> </div>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+    
+    <div class="grid_5 omega"> <a href="index.html"><img class="" src="images/logo.png" style="float:right;" /></a> </div>
+  </div>
+  <div class="clearfix"></div>
+  <div class="grid_12">
+    <video width="950" height="663" autoplay>
+    <source src="images/Nearex.webm" type="video/webm">
+  <source src="images/Nearex.mp4" type="video/mp4">
+  <source src="images/Nearex.ogg" type="video/ogg">
+  
+  Your browser does not support the video tag.
+</video>
+ 	<!--<div class="video-container">
+    <embed src="images/Nearex_Final animation_02.swf" bgcolor="#000000">
+    </embed>
+    
+    </div>-->
+  </div>
+  <div class="clearfix"></div>
+  <!--<div class="grid_12 margin-top-20 text-center" style="margin-top:63px;">
+  <div class="">
+  <aside class="clearfix">
+				<a href="#" target="_blank" class="met_color3 met_color_transition"><i class="icon-facebook social_icon"></i></a>
+		<a href="#" target="_blank" class="met_color3 met_color_transition"><i class="icon-twitter social_icon"></i></a>
+		<a href="#" target="_blank" class="met_color3 met_color_transition"><i class="icon-google-plus social_icon"></i></a>
+		<a href="#" target="_blank" class="met_color3 met_color_transition margin-right-0"><i class="icon-linkedin social_icon"></i></a>
+								
+</aside>
+</div>
+  </div>-->
+</div>
+</body>
+</html>
